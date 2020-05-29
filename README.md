@@ -1,2 +1,2 @@
 # Data_mining_algos
-Covering my impelemention of mainstream data mining algorithms.
+Covering my implemention of mainstream data mining algorithms.
